@@ -1,4 +1,4 @@
-# Starter template to build your blog with Gridsome.
+# Starter template to build your blog with Gridsome
 
 Install Gridsome CLI tool if you don't have `npm install --global @gridsome/cli`
 
